@@ -1,6 +1,6 @@
 {
   "name": "react-upward-pmd",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "an upward marquee react components",
   "scripts": {
     "start": "node server.js",
