@@ -1,6 +1,6 @@
 {
-  "name": "react-upward-marquee",
-  "version": "1.1.3",
+  "name": "react-upward-pmd",
+  "version": "1.1.5",
   "description": "an upward marquee react components",
   "scripts": {
     "start": "node server.js",
@@ -26,8 +26,7 @@
   ],
   "author": "Wendell Liu <cuk.bas@gmail.com> (https://github.com/WendellLiu)",
   "license": "MIT",
-  "bugs": {
-  },
+  "bugs": {},
   "homepage": "https://github.com/WendellLiu/react-upward-marquee",
   "devDependencies": {
     "babel-core": "^6.0.20",
